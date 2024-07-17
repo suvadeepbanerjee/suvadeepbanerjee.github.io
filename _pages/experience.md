@@ -20,6 +20,7 @@ author_profile: true
 ## SRC (Semiconductor Research Corporation)
 ### Research Liaison (2020 - Present)
 <font size="-1"><i>Served as Intel liaison for SRC funded projects in UT Dallas</i></font>
+* Serving as Intel Liaison on developing open-source large language models for assertion generation in SystemVerilog code for verification
 * Mentored UT Dallas PhD students on building resilient [systolic-array based DNN accelerators](https://ieeexplore.ieee.org/abstract/document/9327486) and [GAN-based functional safety enhancement](https://ieeexplore.ieee.org/abstract/document/10050565) in DNN accelerators
 
 ## Georgia Institute of  Technology, Atlanta, Georgia
